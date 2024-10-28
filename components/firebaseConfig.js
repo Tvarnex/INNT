@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAr_jkBOE5mmkEwohTb4-uI2-brOS_4G1w",
+    apiKey: "//Indsæt API Key fra rapport",
     authDomain: "cringeyikes123-864fe.firebaseapp.com",
     databaseURL: "https://cringeyikes123-864fe-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "cringeyikes123-864fe",
